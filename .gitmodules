@@ -1,0 +1,6 @@
+[submodule "laravel"]
+	path = laravel
+	url = git@github.com:laravel/laravel.git
+[submodule "ui"]
+	path = ui
+	url = git@github.com:laravel/ui.git
